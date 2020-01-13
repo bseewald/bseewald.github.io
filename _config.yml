@@ -1,6 +1,5 @@
 # main text of home
 name: Bruna Seewald
-bio:  Using technology and stuff related to make the world a better place
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -51,7 +50,7 @@ github: bseewald
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: bruna.seewald@gmail.com
+email: bruna.seewald@dcc.ufmg.br
 
 authors:
     johndoe:
@@ -60,12 +59,6 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: bseewald
-    # jamesfoster:
-    #     name: James Foster
-    #     bio: A Man who develops software with coffee
-    #     external-image: false
-    #     picture: assets/images/james.jpg
-    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -81,7 +74,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
