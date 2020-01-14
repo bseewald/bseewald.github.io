@@ -53,12 +53,11 @@ github: bseewald
 email: bruna.seewald@dcc.ufmg.br
 
 authors:
-    johndoe:
+    brunaseewald:
         name: Bruna Seewald
-        bio: blabla
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: bseewald
+        twitter: b_seewald
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
